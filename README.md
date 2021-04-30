@@ -1,2 +1,1 @@
-# pdf-convert
-actually I have made it in a hurry so maybe it is not perfect
+It's now really a complex code not perfect but code is really complex.
